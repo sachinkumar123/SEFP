@@ -1,0 +1,29 @@
+MCQ PROBLEMS:-
+Q1) What is a proof about an algorithm?
+a) A proof is a solution to a problem.
+b) A proof verifies whether an algorithm is feasible or not.
+c) A proof verifies whether it is complete or not.
+d)A proof of an algorithm verifies the correctness of an algorithm.
+Ans) option d is correct.
+
+Q2) What do we use high-level language? Choose the most appropriate option.
+a)	Easy to use as it is similar to human language.
+b)	High-language executes faster than low-level language in machines.
+c)	For abstraction of lower modules which gives better overview of a program.
+d)	Increases programmer’s productivity, flexibility etc. to code a program.
+Ans) Option (c) is correct.
+
+Q3)Why designing is important and should be done before coding ?
+a)	It helps to improve modularity of functions .
+b)	Optimize and reduce unnecessary steps to achieve task or sub-task.
+c)	Helps in removing ambiguities.
+d)	None of these.
+e)	Option (a),(b) 
+f)	Option (a) ,(b),(c)
+Ans) Option (f) is correct.
+Fill in the blanks:
+Que 4 :-Large softwares are usually written in                    languages. 
+
+Ans :-high-level
+Que 5 :-The term ________________ was used to describe the problems of large         software systems.
+          Ans:-‘the problems of scale’
